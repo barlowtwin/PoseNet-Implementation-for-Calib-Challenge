@@ -6,4 +6,4 @@
 
 - The regularized loss function used in the paper takes into consideration the rotational as well as translational loss while the dataset to work on had only rotational attributes (Euler's angles). The regularizing parameters in the loss function were also learned during the training process.
 
-- Pitch and Yaw angles were provided for training. To conert them to quaternions roll was assumed to be equal to zero. 
+- Pitch and Yaw angles were provided for training. To convert them to quaternions roll was assumed to be equal to zero. 
