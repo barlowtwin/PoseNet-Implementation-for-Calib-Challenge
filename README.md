@@ -1,2 +1,2 @@
-# PoseNet-Implementation-for-Comma-s-Calib-Challenge
+# PoseNet-Implementation-for-Calib-Challenge
 Attempt at reproducing the PoseNet architecture
